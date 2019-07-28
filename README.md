@@ -1,1 +1,5 @@
 # Online-Voting
+we can create a software for the election commission of India. The software should have a access of all the details of the voter ID card and Aadhar card. We can verify the details of the voter ID card by matching with the aadhar card. The software the only be given to the government institutions like government colleges,miltary camp and municipal offices in that area. 
+A person has to go there for voting process. The software will verify the details.The software will send information to the server computer which have folders of all the cities in India and it every city a sub folder of the party name will be created. 
+As soon as the person votes an image(.jpeg) file (party logo) will be created with some random name(M01,M02) in the party respectively folder. We can adopt this process.
+We can also create an App in the simmilar way but by adding an access to the fingerprint scanner. The voter has to scan his fingerprint and it will then verify with the aadhar card and in this way the person can successfully vote there.
